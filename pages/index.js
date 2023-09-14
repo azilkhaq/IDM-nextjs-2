@@ -5,7 +5,7 @@ import Layout from '../components/Layout';
 import Services from '../components/Services';
 import Portofolio from '../components/Portofolio';
 import Contact from '../components/Contact';
-import Products from '../components/Products';
+import Product from '../components/Product';
 
 
 export default function Home() {
@@ -21,7 +21,7 @@ export default function Home() {
         <About />
         <Services />
         <Portofolio />
-        <Products />
+        <Product />
         <Contact />
       </Layout>
     </div>

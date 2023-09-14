@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Service = () => {
+const Portofolio = () => {
     return (
         <div id='portofolio' className='max-w-[1240px] m-auto grid grid-cols-2 justify-center gap-8 p-8 mt-10'>
             {/* Judul */}
@@ -29,4 +29,4 @@ const Service = () => {
     );
 };
 
-export default Service;
+export default Portofolio;
